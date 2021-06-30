@@ -1,6 +1,6 @@
 ### Alistair Mackay
 
-UK-based AWS contractor specialising in
+UK-based AWS DevOps/Architecture contractor with over 25 years experience in IT specialising in
 * Automation
 * CloudFormation
 * DevOps
