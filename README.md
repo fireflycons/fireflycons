@@ -17,4 +17,5 @@ UK-based AWS DevOps/Architecture contractor with over 25 years experience in IT 
 [<img align="left" alt="react" src="https://images.credly.com/size/340x340/images/d4c85f5c-63fa-44a5-b174-e79f5f0cc6fc/AWS-Database-Specialty-2020.png"  width="80" height="80" />](https://www.credly.com/badges/2a4e80c4-64c3-4d84-bde7-234e71285394)
 [<img align="left" alt="react" src="https://images.credly.com/size/340x340/images/ee741c0c-3d57-48e0-82e0-699a2170aa50/AWS-Security-Specialty-2020.png"  width="80" height="80" />](https://www.credly.com/badges/3fda4c21-7575-43c0-bbb6-886bbf578791)
 [<img align="left" alt="react" src="https://images.credly.com/size/340x340/images/d16e8d20-a603-4ce7-94f0-9dc85e7429ba/AWS-AdvNetworking-Specialty-2020.png"  width="80" height="80" />](https://www.credly.com/badges/9fa27962-78ba-4b35-bc40-8bb73d691fe6)
+[<img align="left" alt="react" src="https://images.credly.com/size/340x340/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png" width="80" height="80" />](https://www.credly.com/badges/5ca6386b-a2af-420e-90af-9d20eb01d578)
 <br>
